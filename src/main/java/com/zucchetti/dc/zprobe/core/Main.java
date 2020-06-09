@@ -1,0 +1,9 @@
+package com.zucchetti.dc.zprobe.core;
+
+public class Main
+{
+	public static void main(String[] args)
+	{
+		System.out.println("ZProbe-Core MAIN");
+	}
+}
